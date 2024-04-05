@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:block",
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:redstone",
+            "functions": [
+              {
+                "function": "minecraft:apply_bonus",
+                "enchantment": "minecraft:flame",
+                "formula": "minecraft:binomial_with_bonus_count",
+                "parameters": {
+                  "extra": 2,
+                  "probability": 0.2
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
