@@ -1,8 +1,7 @@
 # item_modifier-apply_bonus
 item_modifierのapply_bonusに関するサンプルになります。
 
-~詳しくはブログ記事『[]()』を参考にしてください。~<br>
-現在執筆中
+詳しくはブログ記事『[【マイクラ】apply_bonusでドロップ数を操作する【item_modifier】](https://natsumake.com/item_modifier-apply_bonus/)』を参考にしてください。
 
 <h3>概要</h3>
 
